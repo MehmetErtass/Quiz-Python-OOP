@@ -37,4 +37,4 @@ Soruları ve Cevapları:
 40
 
 Her soruyu doğru yaptığınız takdirde size score ve puan bilginizi vermektedir.
-Projede Tamame Python da OOP göz önünde bulundurulanarak hazırlanmıştır
+Projede Tamamem Python da OOP göz önünde bulundurulanarak hazırlanmıştır
