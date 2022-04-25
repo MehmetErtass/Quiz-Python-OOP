@@ -1,4 +1,4 @@
-# Python da OOP gibi 5 soruluk sınav yapımı
+# Python da OOP ile 5 soruluk sınav yapımı
 Soruları ve Cevapları:
 
 1)Türkiyenin Başkenti? (Cevap: Ankara)
