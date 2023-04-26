@@ -1,4 +1,6 @@
 # Python da OOP ile 5 soruluk sınav yapımı
+"Question" sınıfını kullanarak beş soru oluşturur ve ardından bu soruları "Quiz" sınıfı ile birleştirerek bir quiz uygulaması oluşturur. "loadQuestion()" yöntemi, kullanıcıya mevcut soruyu gösterir ve kullanıcının yanıtını alır. Yanıt doğruysa, skor güncellenir ve bir sonraki soruya geçilir. Son soru cevaplandığında, "showScore()" yöntemi çağrılarak son skor gösterilir.
+
 Soruları ve Cevapları:
 
 1)Türkiyenin Başkenti? (Cevap: Ankara)
